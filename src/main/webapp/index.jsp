@@ -10,7 +10,7 @@
 	<title>bunna</title>
 </head>
 <body>
-	<h1 style="color:yellow;">Bunna</h1><h1 style="color:red;"> Gebeya </h1><h1 style="color:yellow">Adegegna!!!</h1><h1 style="color:red;"> !!! </h1>
+	<h1 style="color:yellow;">Bunna</h1><h1 style="color:red;"> Gebeya </h1><h1 style="color:yellow">Adegegna</h1><h1 style="color:red;"> !!! </h1>
 </body>
 </html>
 
