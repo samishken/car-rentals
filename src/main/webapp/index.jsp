@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<style>
-		body {background-color:rgb(180,215,254);}
+		body {background-color: green;}
 		h1 {text-align: center;}
 	</style>
 	<meta charset="UTF-8">
